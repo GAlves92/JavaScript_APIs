@@ -1,0 +1,18 @@
+.mynav {
+    padding: 0;
+}
+.smaller {
+    font-size: 14px;
+}
+.larger {
+    font-size: 20px;
+    color: red;
+}
+.card .col-md-12 {
+    margin: 5px;
+}
+
+.chart {
+    width: 700;
+    height: 600;
+}
